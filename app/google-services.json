@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321464908850",
+    "project_id": "prateekchatapp-7d28e",
+    "storage_bucket": "prateekchatapp-7d28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321464908850:android:e311cab33ceb124305502b",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321464908850-o1oqd4af8d3tjp7oche6kevtffgt3ido.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Rv1yqRaZ7H9RLZlx59Oy1XU-qDaJY2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321464908850-o1oqd4af8d3tjp7oche6kevtffgt3ido.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
